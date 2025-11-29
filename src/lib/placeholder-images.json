@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "Avatar for the logged-in user",
+      "imageUrl": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx1c2VyJTIwYXZhdGFyfGVufDB8fHx8MTc2NDM4OTE0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "user avatar"
+    },
+    {
+      "id": "hero-banner-1",
+      "description": "Hero banner for minisite preview",
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29mZmVlJTIwc2hvcHxlbnwwfHx8fDE3NjQzMTI1NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee shop"
+    },
+    {
+      "id": "product-1",
+      "description": "Placeholder for first product image",
+      "imageUrl": "https://images.unsplash.com/photo-1675306408031-a9aad9f23308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBiZWFuc3xlbnwwfHx8fDE3NjQzOTUxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee beans"
+    },
+    {
+      "id": "product-2",
+      "description": "Placeholder for second product image",
+      "imageUrl": "https://images.unsplash.com/photo-1681218079567-35aef7c8e7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9pc3NhbnR8ZW58MHx8fHwxNzY0Mzk3NjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "croissant"
+    },
+    {
+      "id": "product-3",
+      "description": "Placeholder for third product image",
+      "imageUrl": "https://images.unsplash.com/photo-1628068311627-0f5abce65050?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0LXNoaXJ0JTIwZGVzaWdufGVufDB8fHx8MTc2NDI3OTU5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "t-shirt design"
+    },
+    {
+      "id": "product-4",
+      "description": "Placeholder for fourth product image",
+      "imageUrl": "https://images.unsplash.com/photo-1648627667032-d02d79b28066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYXVuZHJ5JTIwc2VydmljZXxlbnwwfHx8fDE3NjQzNzc2MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laundry service"
+    },
+    {
+      "id": "logo-placeholder",
+      "description": "Placeholder for a business logo",
+      "imageUrl": "https://images.unsplash.com/photo-1687523327554-fa9f50423489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjQzNjg1MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    }
+  ]
 }
