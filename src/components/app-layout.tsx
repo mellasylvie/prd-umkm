@@ -96,7 +96,6 @@ export default function AppLayout({ children, title }: AppLayoutProps) {
                     data-ai-hint="user avatar"
                   />
                   <span className="sr-only">Toggle user menu</span>
-                  <ChevronDown className="h-4 w-4 hidden md:inline-block" />
                 </Button>
               </DropdownMenuTrigger>
               <DropdownMenuContent align="end">
@@ -109,7 +108,7 @@ export default function AppLayout({ children, title }: AppLayoutProps) {
               </DropdownMenuContent>
             </DropdownMenu>
           </header>
-          <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6">
+          <main className="flex flex-1 flex-col gap-4 p-4 lg:gap-6 lg:p-6 bg-muted/30">
             {children}
           </main>
         </SidebarInset>
