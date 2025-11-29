@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Card,
   CardContent,
@@ -5,10 +7,9 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { BarChart, LineChart, PieChart, Users, MousePointerClick, TrendingUp, LocateIcon } from "lucide-react";
 import AppLayout from "@/components/app-layout";
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart";
-import { Bar, CartesianGrid, Line, XAxis, YAxis, ResponsiveContainer, Pie, Cell } from "recharts";
+import { Bar, BarChart, CartesianGrid, Cell, Line, LineChart, Pie, PieChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 
 const monthlyVisitorsData = [
   { date: "2023-01", visitors: 2000 },

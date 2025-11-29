@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Card,
   CardContent,
@@ -6,8 +8,6 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import {
-  BarChart,
-  LineChart,
   Package,
   Users,
   MousePointerClick,
@@ -21,11 +21,13 @@ import {
 } from "@/components/ui/chart";
 import {
   Bar,
+  BarChart,
   CartesianGrid,
   Line,
+  LineChart,
+  ResponsiveContainer,
   XAxis,
   YAxis,
-  ResponsiveContainer,
 } from "recharts";
 
 const chartData = [
